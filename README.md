@@ -1,4 +1,7 @@
 # Housing_Price_Prediction
+
+Kaggle Data Source: https://www.kaggle.com/datasets/shubhammeshram579/house
+
 The housing price prediction dataset represents a regression challenge, discerning property values according to specific characteristics. This notebook seeks to conduct exploratory data analysis (EDA), manage dataset processing, and develop machine learning models to optimize pricing prediction abilities. Upon completing the model training phase, evaluations will determine the high-performing models and their corresponding hyperparameters.
 
 Attribute Information:
